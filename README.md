@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## Welcome to my profile!
+
+- 🌱 I’m currently learning JAMStack and related technologies. Let's discuss?
+
+- 👨‍💼 Looking for junior job.
+
+- ⚡ Fun fact: Bis diciti quis scribit! I don't like to follow video class. Documentation is all for me. For practices, pair programming is very effective.
+
 <!--
 **FcoMarcosMAbreu/FcoMarcosMAbreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
