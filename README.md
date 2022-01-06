@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact: Bis diciti quis scribit! I don't like to follow video class. Documentation is all for me. For practices, pair programming is very effective.
 
+- 💬 You can contact me at Signal: +5586981273995
+
 <!--
 **FcoMarcosMAbreu/FcoMarcosMAbreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
